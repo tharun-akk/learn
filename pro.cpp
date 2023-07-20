@@ -56,7 +56,7 @@ void PlayerInfo::set_bidAmount()
 	cout<<"----------------------------------------------"<<endl;
 }
 
-
+//hello world.............................................
 /* interfaces for guessing number
    ==================================  */
 
