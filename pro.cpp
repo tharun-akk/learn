@@ -2,6 +2,19 @@
 /////////
 ///
 ///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
 #include"header.h"
 
 /* class of players & his/her information
